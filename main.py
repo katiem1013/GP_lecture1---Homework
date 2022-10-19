@@ -37,17 +37,6 @@ elif choice_1 in "right":
         pet_fish = str(input("It is a lovely pond. There is a fish, would you like to pet it? yes or no: "))
 
         if pet_fish in "yes":
-            print(" _________         .    .")
-            print("(..       \_    ,  |\  /|")
-            print(" \       O  \  /|  \ \/ /")
-            print("  \______    \/ |   \  / ")
-            print("     vvvv\    \ |   /  |")
-            print("     \^^^^  ==   \_/   |")
-            print("      `\_   ===    \.  |")
-            print("      / /\_   \ /      |")
-            print("      |/   \_  \|      /")
-            print("            \_________/")
-            print("")
             print("...it was a shark...")
             print("...it bites your hand off...")
             exit()
